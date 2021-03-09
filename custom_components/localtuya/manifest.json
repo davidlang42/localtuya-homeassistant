@@ -4,5 +4,6 @@
   "documentation": "https://github.com/rospogrigio/localtuya-homeassistant/",
   "dependencies": [],
   "codeowners": ["@rospogrigio"],
-  "requirements": ["pycryptodome==3.9.8"]
+  "requirements": ["pycryptodome==3.9.8"],
+  "version": "2021.3.1"
 }
