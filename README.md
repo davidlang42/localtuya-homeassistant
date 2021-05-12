@@ -1,3 +1,12 @@
+# Frozen at V1.2.0
+
+Forked at this version specifically due to breaking change in yaml configuration.
+I use this to avoid have to reconfigure all the entities, and because I don't need any of the new features.
+I don't just install the original at this [release](https://github.com/rospogrigio/localtuya/tree/v1.2.0/custom_components/localtuya) because:
+* HACS will continuously prompt to update, and I have to *remember* not to do it or everything will break
+* I have added 1 commit to this release, to add a version number to the manifest, so HA does not complain
+
+---
 
 # localtuya-homeassistant
 
