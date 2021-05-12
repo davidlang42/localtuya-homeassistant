@@ -1,9 +1,9 @@
 {
   "domain": "localtuya",
-  "name": "LocalTuya integration",
+  "name": "LocalTuya integration at v1.2.0",
   "documentation": "https://github.com/rospogrigio/localtuya-homeassistant/",
   "dependencies": [],
   "codeowners": ["@rospogrigio"],
   "requirements": ["pycryptodome==3.9.8"],
-  "version": "2021.3.1"
+  "version": "1.2.0"
 }
